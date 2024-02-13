@@ -1,0 +1,4 @@
+filter-state:WY
+filter:Education.High School or Higher:ge:90
+filter:Income.Per Capita Income:ge:30000
+percent:Ethnicities.White Alone
